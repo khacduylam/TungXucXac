@@ -52,7 +52,10 @@ namespace server {
             int index = this.GetFreeSocket();
             if(index == -1) return;
 
-            socket[index] = new SocketModel(s);
+            this.socket[index] = new SocketModel(s);
+
+            Console.WriteLine("New connection from: " +
+                this.socket[index].GetRemoteEndpoint());
         }
 
         public void ServeRequests(Object obj) {
