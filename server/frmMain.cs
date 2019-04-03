@@ -88,7 +88,10 @@ namespace server {
                             this.socket[1].SendData("Winner:2");
                         }
                     }
+                } else if(str == "Ready") {
+                    this.clientState[index] = -1;
                 }
+
             }
         }
 
