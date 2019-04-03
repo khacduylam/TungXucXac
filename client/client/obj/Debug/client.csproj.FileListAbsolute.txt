@@ -1,0 +1,11 @@
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\bin\Debug\client.exe.config
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\bin\Debug\client.exe
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\bin\Debug\client.pdb
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.frm_Board.resources
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.frm_Connect.resources
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.Properties.Resources.resources
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.exe
+D:\1_UNIVERSITY\_SEMESTER 4\4_Lập trình Mạng\Giữa kì\client\client\obj\Debug\client.pdb
