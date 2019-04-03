@@ -8,3 +8,13 @@ E:\LTMCB\GK2\server\obj\Debug\server.csproj.GenerateResource.cache
 E:\LTMCB\GK2\server\obj\Debug\server.csproj.CoreCompileInputs.cache
 E:\LTMCB\GK2\server\obj\Debug\server.exe
 E:\LTMCB\GK2\server\obj\Debug\server.pdb
+E:\LTMCB\GK2\TungXucXac\server\bin\Debug\server.exe.config
+E:\LTMCB\GK2\TungXucXac\server\bin\Debug\server.exe
+E:\LTMCB\GK2\TungXucXac\server\bin\Debug\server.pdb
+E:\LTMCB\GK2\TungXucXac\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\LTMCB\GK2\TungXucXac\server\obj\Debug\server.frmMain.resources
+E:\LTMCB\GK2\TungXucXac\server\obj\Debug\server.Properties.Resources.resources
+E:\LTMCB\GK2\TungXucXac\server\obj\Debug\server.csproj.GenerateResource.cache
+E:\LTMCB\GK2\TungXucXac\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\LTMCB\GK2\TungXucXac\server\obj\Debug\server.exe
+E:\LTMCB\GK2\TungXucXac\server\obj\Debug\server.pdb
